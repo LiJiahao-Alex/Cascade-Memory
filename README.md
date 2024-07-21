@@ -1,7 +1,7 @@
-# Cascade Memory for Unsupervised Anomaly Detection (Official PyTorch Implementation)
+# Cascade Memory for Unsupervised Anomaly Detection
 
 # Environment
-'''
+```
 keras==2.13.1
 matplotlib==3.5.1
 numpy==1.24.3
@@ -27,9 +27,10 @@ torchvision==0.16.2
 torchviz==0.0.2
 tqdm==4.66.1
 wget==3.2
-'''
+```
+
 
 # Citation
-'''
+```
 Coming soon...
-'''
+```
