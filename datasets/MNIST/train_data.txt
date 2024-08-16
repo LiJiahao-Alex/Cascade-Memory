@@ -1,0 +1,1 @@
+Given the website shall not be higher than 25 MB limit upload size, MNIST data can be downloaded at https://yann.lecun.com/exdb/mnist/
