@@ -3,8 +3,7 @@ This is the official repository for the ECAI 2024 paper "Cascade Memory for Unsu
 <img src="image/overview.png" width="800px">
 
 # Summary
-Unsupervised anomaly detection is to detect previously unseen rare samples without any prior knowledge about them. With the emergence of deep learning, many methods employ normal data reconstruction to train detection models, which is expected to yield relatively large errors when reconstructing anomalies. However, recent studies find that anomalies can be overgeneralized, resulting in reconstruction errors as small as normal samples. In this paper, we examine the anomaly overgeneralization problem and propose global semantic information learning. Normal and anomalous samples may share the same local feature such as textures, edges, and corners, but have separability at the global semantic level. To address this, we propose a novel cascade memory architecture designed to capture global semantic information in the latent space and introduce a configurable sparsification and random forgetting mechanism.
-
+You can run the experiments through this repository.
 
 # Getting Started
 When preparing the dataset you can place it in the datasets folder and run the preprocess.py to finish the preparation. Run the main.py file to start the experiment.
