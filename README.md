@@ -47,5 +47,12 @@ wget==3.2
 If you find this repo useful for your research, please consider leaving a star⭐️ and citing the paper
 
 ```
-Coming soon...
+@incollection{li2024cascade,
+  title={Cascade Memory for Unsupervised Anomaly Detection},
+  author={Li, Jiahao and Chen, Yiqiang and Xing, Yunbing and Gu, Yang and Lan, Xiangyuan},
+  booktitle={ECAI 2024},
+  pages={2854--2861},
+  year={2024},
+  publisher={IOS Press}
+}
 ```
